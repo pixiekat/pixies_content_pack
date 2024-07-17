@@ -1,0 +1,6 @@
+name: "pixiekat's content pack ♡"
+type: module
+description: 'a collection of content development and cms modules for drupal by pixiekat.'
+core_version_requirement: ^10 || ^11
+package: 'Content'
+dependencies: { }

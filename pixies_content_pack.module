@@ -1,0 +1,19 @@
+<?php
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ *
+ * {@inheritdoc}
+ */
+function pixies_content_pack_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    case 'help.page.pixies_content_pack':
+      $output = '';
+      $output .= '<h3>' . t("pixiekat's content pack ♡") . '</h3>';
+      $output .= '<p>' . t('a collection of content development and cms modules for drupal by pixiekat.') . '</p>';
+      return $output;
+
+    default:
+  }
+}
