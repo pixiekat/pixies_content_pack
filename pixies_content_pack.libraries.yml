@@ -2,3 +2,8 @@ fontawesome6.component:
   css:
     component:
       //cdnjs.cloudflare.com/ajax/libs/font-awesome/6.6.0/css/all.min.css: { type: external }
+
+social_media_links.component:
+  css:
+    component:
+      css/social_media_links.css: {}
