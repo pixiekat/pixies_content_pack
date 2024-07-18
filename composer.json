@@ -22,7 +22,8 @@
         "drupal/paragraphs": "^1.17",
         "drupal/pathauto": "^1.12",
         "drupal/redirect": "^1.9",
-        "drupal/simple_sitemap": "^4.1"
+        "drupal/simple_sitemap": "^4.1",
+        "drupal/social_media_links": "^2.9"
     },
     "require-dev": {
         "drupal/devel": "^5.2",
