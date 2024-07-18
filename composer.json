@@ -17,6 +17,7 @@
     "require": {
         "composer/installers": "^2.0",
         "drupal/core-recommended": "^10.3 || ^11",
+        "drupal/fontawesome": "^2.26",
         "drupal/google_analytics": "^4.0",
         "drupal/metatag": "^2.0",
         "drupal/paragraphs": "^1.17",
